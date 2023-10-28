@@ -1,0 +1,114 @@
+C:\Users\User\source\repos\STF\STF\bin\Debug\net6.0-windows\STF.exe
+C:\Users\User\source\repos\STF\STF\bin\Debug\net6.0-windows\STF.deps.json
+C:\Users\User\source\repos\STF\STF\bin\Debug\net6.0-windows\STF.runtimeconfig.json
+C:\Users\User\source\repos\STF\STF\bin\Debug\net6.0-windows\STF.dll
+C:\Users\User\source\repos\STF\STF\bin\Debug\net6.0-windows\STF.pdb
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.Form1.resources
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.AssemblyInfo.cs
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.dll
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\refint\STF.dll
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.pdb
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\STF.genruntimeconfig.cache
+C:\Users\User\source\repos\STF\STF\obj\Debug\net6.0-windows\ref\STF.dll
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.AssemblyInfo.cs
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.dll
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\refint\STF.dll
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.pdb
+C:\Users\User\source\repos\STDF\STF\bin\Debug\net6.0-windows\STF.exe
+C:\Users\User\source\repos\STDF\STF\bin\Debug\net6.0-windows\STF.deps.json
+C:\Users\User\source\repos\STDF\STF\bin\Debug\net6.0-windows\STF.runtimeconfig.json
+C:\Users\User\source\repos\STDF\STF\bin\Debug\net6.0-windows\STF.dll
+C:\Users\User\source\repos\STDF\STF\bin\Debug\net6.0-windows\STF.pdb
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STDF.Form1.resources
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\STF.genruntimeconfig.cache
+C:\Users\User\source\repos\STDF\STF\obj\Debug\net6.0-windows\ref\STF.dll
+C:\Users\user\Downloads\sdf\STDF\STF\bin\Debug\net6.0-windows\STF.exe
+C:\Users\user\Downloads\sdf\STDF\STF\bin\Debug\net6.0-windows\STF.deps.json
+C:\Users\user\Downloads\sdf\STDF\STF\bin\Debug\net6.0-windows\STF.runtimeconfig.json
+C:\Users\user\Downloads\sdf\STDF\STF\bin\Debug\net6.0-windows\STF.dll
+C:\Users\user\Downloads\sdf\STDF\STF\bin\Debug\net6.0-windows\STF.pdb
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STDF.Form1.resources
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.csproj.GenerateResource.cache
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.AssemblyInfo.cs
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.dll
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\refint\STF.dll
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.pdb
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\STF.genruntimeconfig.cache
+C:\Users\user\Downloads\sdf\STDF\STF\obj\Debug\net6.0-windows\ref\STF.dll
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.exe
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.deps.json
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.runtimeconfig.json
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.dll
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.pdb
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STDF.Form1.resources
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.dll
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\refint\STF.dll
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.pdb
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Circle-and-Rectangle-master\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\ref\STF.dll
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.exe
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.deps.json
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.runtimeconfig.json
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.dll
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.pdb
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STDF.Form1.resources
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.csproj.GenerateResource.cache
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.AssemblyInfo.cs
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.dll
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\refint\STF.dll
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.pdb
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.genruntimeconfig.cache
+C:\Users\user\Downloads\turan sdf\turan sdf\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\ref\STF.dll
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.exe
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.deps.json
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.dll
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\bin\Debug\net6.0-windows\STF.pdb
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STDF.Form1.resources
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.dll
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\refint\STF.dll
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.pdb
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\ref\STF.dll
+C:\Users\user\OneDrive\Desktop\Circle-and-Rectangle-master\STF\obj\Debug\net6.0-windows\STF.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\bin\Debug\net6.0-windows\STF.exe
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\bin\Debug\net6.0-windows\STF.deps.json
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\bin\Debug\net6.0-windows\STF.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\bin\Debug\net6.0-windows\STF.dll
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\bin\Debug\net6.0-windows\STF.pdb
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STDF.Form1.resources
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.dll
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\refint\STF.dll
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.pdb
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\STF.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\tofiq sdf1\STF\obj\Debug\net6.0-windows\ref\STF.dll
