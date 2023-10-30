@@ -8,16 +8,11 @@ namespace STDF
 {
     public class Shape
     {
-        public string color { get; set; }
-        public bool filled { get; set; }
+        public string color;
+        public bool filled; 
 
-        public Shape()
-        {
-            color = "green";
-            filled = true;
-        }
-
-        public Shape(string color, bool filled)
+    
+        public Shape(string color="green", bool filled=true)
         {
             this.color = color;
             this.filled = filled;

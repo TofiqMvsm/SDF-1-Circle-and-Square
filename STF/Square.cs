@@ -9,30 +9,23 @@ namespace STDF
    
     public class Square :Rectangle 
     {
-        public double Side { get; set; }
-        public string Color { get; set; }
-        public bool Filled { get; set; }
-        public double Radius { get; internal set; }
+        public double side;
+       
+       
 
-        public Square()
+        public Square(double side=10,string color="green", bool filled=true)
         {
-            Side = 1.0;
-            Color = "green";
-            Filled = true;
-        }
 
-        public Square(double side, string color, bool filled)
-        {
-            Side = side;
-            Color = color;
-            Filled = filled;
+            this.side = side;
+            this.color = color;
+            this.filled = filled;
         }
 
 
 
         public override string ToString()
         {
-            return $"Square [Side={Side}, Color={Color}, Filled={Filled}]";
+            return $"Square [Side={side}, Color={color}, Filled={filled}]";
         }
     }
 

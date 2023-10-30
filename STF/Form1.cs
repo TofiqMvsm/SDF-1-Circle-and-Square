@@ -4,7 +4,7 @@ namespace STDF
 {
     public partial class Form1 : Form
     {
-        int CordinateX = 200, CordinateY = 150;
+        int CordinateX = 200, CordinateY = 200;
         double SideOfSquare;
         double RadiusOfCircle;
         bool IsFilledOfSquare = true;
@@ -30,7 +30,7 @@ namespace STDF
 
                 string text = textbox.Text;
                 string[] parts = text.Split(' ').Select(part => part.Trim()).ToArray();
-
+                Console.WriteLine(parts);
                 if (parts.Length == 3)
                 {
                     if (double.TryParse(parts[0], out double radius))
@@ -39,27 +39,39 @@ namespace STDF
 
                         if (bool.TryParse(parts[2], out bool filled))
                         {
-                            c.Radius = radius;
-                            c.Color = color;
-                            c.Filled = filled;
+                            c.radius = radius;
+                            c.color = color;
+                            c.filled = filled;
                         }
                     }
                 }
+                else if (parts.Length == 2)
+                {
+
+                    if (bool.TryParse(parts[1], out bool IsFilled))
+                    {
+                        c.radius = double.Parse(parts[0]);
+                        c.filled = IsFilled;
+                    }
+                    else if (int.TryParse(parts[0], out int radius))
+                    {
+                        c.radius = radius;
+                        c.color = parts[1];
+                    }
+
+
+                }
+
                 else
                 {
-                    c.Radius = Convert.ToDouble(textbox.Text);
+                    c.radius = Convert.ToDouble(textbox.Text);
                 }
 
             }
-            else
-            {
-                c.Radius = 10.0;
-                c.Color = "red";
-                c.Filled = true;
-            }
-            ColorOfCircle = c.Color;
-            RadiusOfCircle = c.Radius;
-            IsFilledOfCircle = c.Filled;
+           
+            ColorOfCircle = c.color;
+            RadiusOfCircle = c.radius;
+            IsFilledOfCircle = c.filled;
 
             Invalidate();
         }
@@ -75,43 +87,44 @@ namespace STDF
 
                 if (parts.Length == 3)
                 {
-                    if (double.TryParse(parts[0], out double radius))
+                    if (double.TryParse(parts[0], out double side))
                     {
                         string color = parts[1];
 
                         if (bool.TryParse(parts[2], out bool filled))
                         {
-                            s.Radius = radius;
-                            s.Color = color;
-
-
-                            s.Filled = filled;
+                            s.side = side;
+                            s.color = color;
+                            s.filled = filled;
                         }
                     }
                 }
-                else if (parts.Length == 2)
+               else if (parts.Length == 2)
                 {
 
                     if (bool.TryParse(parts[1], out bool IsFilled))
                     {
-                        s.Radius = double.Parse(parts[0]);
-                        s.Filled = IsFilled;
+                        s.side = double.Parse(parts[0]);
+                        s.filled = IsFilled;
                     }
-                    else if (int.TryParse(parts[0], out int radius))
+                    else if (int.TryParse(parts[0], out int side))
                     {
-                        s.Radius = radius;
-                        s.Color = parts[1];
+                        s.side = side;
+                        s.color = parts[1];
                     }
 
 
                 }
-
+                else
+                {
+                    s.side = Convert.ToDouble(textbox.Text);
+                }
             }
+           
 
-
-            ColorOfSquare = s.Color;
-            SideOfSquare = s.Radius;
-            IsFilledOfSquare = s.Filled;
+            ColorOfSquare = s.color;
+            SideOfSquare = s.side;
+            IsFilledOfSquare = s.filled;
             Invalidate();
         }
 
@@ -163,12 +176,12 @@ namespace STDF
 
             if (ClickedButton == "Circle")
             {
-                Move(SideOfSquare, SideOfSquare);
+                Move(RadiusOfCircle, RadiusOfCircle);
 
             }
             else if (ClickedButton == "Square")
             {
-                Move(RadiusOfCircle, RadiusOfCircle);
+                Move(SideOfSquare, SideOfSquare);
 
             }
             void Move(double num1, double num2)
@@ -210,15 +223,7 @@ namespace STDF
 
         }
 
-        private void label8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 
 }

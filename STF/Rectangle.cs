@@ -8,28 +8,11 @@ namespace STDF
 {
     public class Rectangle :Shape
     {
-        private double width;
-        private double length;
-        private string color;
-        private bool filled;
+        private double width { get; set; }
+        private double length { get; set; } 
 
-        public Rectangle()
-        {
-            width = 1.0;
-            length = 1.0;
-            color = "green";
-            filled = true;
-        }
 
-        public Rectangle(double width, double length)
-        {
-            this.width = width;
-            this.length = length;
-            color = "green";
-            filled = true;
-        }
-
-        public Rectangle(double width, double length, string color, bool filled)
+        public Rectangle(double width=1.0, double length = 1.0, string color="green", bool filled=true)
         {
             this.width = width;
             this.length = length;
@@ -37,25 +20,9 @@ namespace STDF
             this.filled = filled;
         }
 
-        public double GetWidth()
-        {
-            return width;
-        }
+      
 
-        public void SetWidth(double width)
-        {
-            this.width = width;
-        }
-
-        public double GetLength()
-        {
-            return length;
-        }
-
-        public void SetLength(double length)
-        {
-            this.length = length;
-        }
+     
 
         public double GetArea()
         {

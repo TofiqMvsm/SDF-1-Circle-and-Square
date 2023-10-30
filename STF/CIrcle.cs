@@ -9,46 +9,19 @@ namespace STDF
 
     using System;
 
-    public class Circle :Shape
+    public class Circle : Shape
     {
-        public double Radius { get; set; }
-        public string Color { get; set; }
-        public bool Filled { get; set; }
-
-        public Circle()
+        public double radius;
+        public Circle(double radius=10, string color = "Green", bool filled = true)
         {
-            Radius = 10.0;
-            Color = "green";
-            Filled = true;
-        }
-
-        public Circle(double radius)
-        {
-            Radius = radius;
-            Color = "green";
-            Filled = true;
-        }
-
-        public Circle(double radius, string color, bool filled)
-        {
-            Radius = radius;
-            Color = color;
-            Filled = filled;
-        }
-
-        public double GetArea()
-        {
-            return Math.PI * Math.Pow(Radius, 2);
-        }
-
-        public double GetPerimeter()
-        {
-            return 2 * Math.PI * Radius;
+            this.radius = radius;
+            this.color = color;
+            this.filled = filled;
         }
 
         public override string ToString()
         {
-            return $"Circle [Radius={Radius}, Color={Color}, Filled={Filled}]";
+            return $"Circle [Radius={radius}, Color={color}, Filled={filled}]";
         }
     }
 

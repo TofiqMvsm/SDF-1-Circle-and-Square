@@ -43,9 +43,9 @@
             // Circle
             // 
             Circle.BackColor = SystemColors.MenuBar;
-            Circle.Location = new Point(209, 34);
+            Circle.Location = new Point(33, 74);
             Circle.Name = "Circle";
-            Circle.Size = new Size(56, 40);
+            Circle.Size = new Size(128, 40);
             Circle.TabIndex = 0;
             Circle.Text = "Circle";
             Circle.UseVisualStyleBackColor = false;
@@ -54,9 +54,9 @@
             // btnSquare
             // 
             btnSquare.BackColor = SystemColors.MenuBar;
-            btnSquare.Location = new Point(289, 34);
+            btnSquare.Location = new Point(216, 74);
             btnSquare.Name = "btnSquare";
-            btnSquare.Size = new Size(56, 40);
+            btnSquare.Size = new Size(112, 40);
             btnSquare.TabIndex = 1;
             btnSquare.Text = "Square";
             btnSquare.UseVisualStyleBackColor = false;
@@ -65,7 +65,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 18);
+            label1.Location = new Point(158, 9);
             label1.Name = "label1";
             label1.Size = new Size(75, 15);
             label1.TabIndex = 2;
@@ -73,7 +73,7 @@
             // 
             // textbox
             // 
-            textbox.Location = new Point(12, 51);
+            textbox.Location = new Point(129, 34);
             textbox.Name = "textbox";
             textbox.PlaceholderText = "Size,Color,True";
             textbox.Size = new Size(143, 23);
@@ -97,7 +97,7 @@
             label8.RightToLeft = RightToLeft.No;
             label8.Size = new Size(9, 302);
             label8.TabIndex = 17;
-            label8.Click += label8_Click;
+            
             // 
             // label3
             // 
@@ -137,7 +137,7 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
-            Load += Form1_Load;
+           
             Paint += Form1_Paint;
             KeyDown += Form1_KeyDown;
             ResumeLayout(false);
